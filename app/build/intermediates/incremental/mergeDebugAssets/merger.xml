@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidProject\AndroLua\app\src\main\assets"><file name="greet.lua" path="D:\AndroidProject\AndroLua\app\src\main\assets\greet.lua"/><file name="import.lua" path="D:\AndroidProject\AndroLua\app\src\main\assets\import.lua"/></source></dataSet><dataSet config="debug"><source path="D:\AndroidProject\AndroLua\app\src\debug\assets"/></dataSet></merger>
